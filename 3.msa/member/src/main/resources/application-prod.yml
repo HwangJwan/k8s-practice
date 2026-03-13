@@ -8,6 +8,7 @@ eureka:
   client:
     enabled: false
 
+
 spring:
   config:
     activate:
