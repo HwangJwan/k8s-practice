@@ -47,3 +47,8 @@ mybatis:
 logging:
   level:
     root: info
+
+aws:
+  credentials:
+    access-key: test
+    secret-key: test
