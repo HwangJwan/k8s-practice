@@ -52,3 +52,4 @@ aws:
   credentials:
     access-key: test
     secret-key: test
+  region: ap-northeast-2
