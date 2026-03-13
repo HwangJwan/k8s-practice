@@ -53,3 +53,5 @@ aws:
     access-key: test
     secret-key: test
   region: ap-northeast-2
+  s3:
+    bucket1: test-bucket
